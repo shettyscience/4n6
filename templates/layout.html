@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>ka4n6</title>
+		<style type="text/css">
+		
+			body {
+				margin:0;
+				padding:0;
+				font-family: Sans-Serif;
+				line-height: 1.5em;
+			}
+			
+			header {
+				background: #ccc;
+				height: 100px;
+			}
+			
+			header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+			}
+			
+			nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -230px;
+				background: #eee;
+			}
+			
+			footer {
+				clear: left;
+				width: 100%;
+				background: #ccc;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-right: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+			}
+		
+			p {
+				color: #555;
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkgreen;
+				text-decoration: none;
+			}
+			
+			.button-group,
+			.button-group li{
+  				display: inline-block; align: right; overflow: auto;
+  				zoom: 1.5;
+			}
+
+			.button-group{
+  				font-size: 0; /* Inline block elements gap - fix */
+  				margin: 0; margin-left: 400px; margin-top: -15px;
+  				padding: 0;
+  				background: rgba(0, 0, 0, .04);
+  				border-bottom: 1px solid rgba(0, 0, 0, .07);
+ 	 			padding: 3px;
+  				border-radius: 7px; 
+			}
+
+			.button-group li{
+  				margin-right: -1px; /* Overlap each right button border */
+			}
+
+			.button-group .button{
+  				font-size: 13px; /* Set the font size, different from inherited 0 */
+  				border-radius: 0; 
+			}
+
+			.button-group .button:active{
+  				box-shadow: 0 0 1px rgba(0, 0, 0, .2) inset,
+              	5px 0 5px -3px rgba(0, 0, 0, .2) inset,
+              	-5px 0 5px -3px rgba(0, 0, 0, .2) inset;   
+			}
+
+			.button-group li:first-child .button{
+  				border-radius: 3px 0 0 3px;
+			}
+
+			.button-group li:first-child .button:active{
+  				box-shadow: 0 0 1px rgba(0, 0, 0, .2) inset,
+              	-5px 0 5px -3px rgba(0, 0, 0, .2) inset;
+			}
+
+			.button-group li:last-child .button{
+  				border-radius: 0 3px 3px 0;
+			}
+
+			.button-group li:last-child .button:active{
+  				box-shadow: 0 0 1px rgba(0, 0, 0, .2) inset,
+              	5px 0 5px -3px rgba(0, 0, 0, .2) inset;
+			}
+
+		</style>
+		
+		<script >
+		
+		</script>	
+	
+	</head>
+	
+	<body>		
+
+		<header>
+			<div class="innertube">
+				<h1 onclick="window.location.href='/';">KA FORENSICS</h1>
+                <p>I'm a cybersecurity enthusiast who thinks knowledge should be free.</p>
+				<ul class="button-group">
+  					<li><button class="button" onclick="window.location.href='/art';">Articles</button></li>
+  					<li><button class="button" onclick="window.location.href='/res';">Research</button></li>
+  					<li><button class="button" onclick="window.location.href='/reso';">Resources</button></li>
+  					<li><button class="button" onclick="window.location.href='/kan';">Kannada</button></li>
+				</ul>
+			</div>
+			
+		</header>
+		
+		<div id="wrapper">
+		
+			<main>
+				{% block body %}{% endblock body %}
+			</main>
+			
+			<nav>
+				<div class="innertube">
+					<h3>Categories</h3>
+					<ul>
+						<li><a href="#">Forensics</a></li>
+						<li><a href="#">OSINT</a></li>
+						<li><a href="#">Training</a></li>
+						<li><a href="#">Kannada</a></li>
+						<li><a href="#">Research</a></li>
+					</ul>
+					<h3>Tags</h3>
+					<ul>
+						<li><a href="#">mobile</a></li>
+						<li><a href="#">disk</a></li>
+						<li><a href="#">darkweb</a></li>
+						<li><a href="#">training</a></li>
+						<li><a href="#">basics</a></li>
+					</ul>
+					<h3>Recent</h3>
+					<ul>
+						<li><a href="#">XXX</a></li>
+						<li><a href="#">XXX</a></li>
+						<li><a href="#">XXX</a></li>
+						<li><a href="#">XXX</a></li>
+						<li><a href="#">XXX</a></li>
+					</ul>
+				</div>
+			</nav>
+		
+		</div>
+		
+		<footer>
+			<div class="innertube">
+				<p>Copyright ka4n6</p>
+			</div>
+		</footer>
+	
+	</body>
+</html>
