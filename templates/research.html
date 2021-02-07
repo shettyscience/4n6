@@ -2,12 +2,10 @@
 
 
 {% block body %}
-    <div> 
-        <h1>Research</h1>
-        <li><a href="#">XXX</a></li>
-        <li><a href="#">XXX</a></li>
-        <li><a href="#">XXX</a></li>
-        <li><a href="#">XXX</a></li>
-        <li><a href="#">XXX</a></li>    
-    </div>
+{% for page in pages %}
+<a href="{{ page.path }}.html"><h2>{{ page.title }}</h2></a>
+<p>{{ page.description }}</p>
+<p>{{ page.date }}</p>
+<hr>
+{% endfor %}
 {% endblock %}

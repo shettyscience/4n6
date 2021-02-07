@@ -2,15 +2,11 @@
 
 
 {% block body %}
+{% for page in pages %}
+<a href="{{ page.path }}.html"><h2>{{ page.title }}</h2></a>
+<p>{{ page.description }}</p>
 
-    <div>
-    
-            <h1>Articles</h1>
-            <li><a href="#">XXX</a></li>
-            <li><a href="#">XXX</a></li>
-            <li><a href="#">XXX</a></li>
-            <li><a href="#">XXX</a></li>
-            <li><a href="#">XXX</a></li>
-    
-    </div>
+<p>{{ page.date }}</p>
+<hr>
+{% endfor %}
 {% endblock %}
