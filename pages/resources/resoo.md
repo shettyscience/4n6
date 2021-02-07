@@ -1,8 +1,8 @@
-title: My first post
-date: 29 Jun 20
-articles: me
-author: Me!
-description: This is a summary of the post
+title: XXX
+date: 01 Feb 21
+resources: resources
+author: ka4n6
+description: XXX
 
 
-# This is the start of my content!
+# XXX
