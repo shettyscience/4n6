@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="google-site-verification" content="iEnz5hsFe2-rE06glAk6NAuSFDjUCJhWdLGXhWMlI1M" />
+		<title>ka4n6</title>
+		<style type="text/css">
+		
+			body {
+				margin:0;
+				padding:0;
+				font-family: Sans-Serif;
+				line-height: 1.5em;
+			}
+			
+			header {
+				padding-top: 30px;
+  				text-align: center;
+  				background: #1abc9c;
+  				color: white;
+  				font-size: 30px;
+			}
+			
+			header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+			}
+			
+			nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -230px;
+				background: #eee;
+			}
+			
+			footer {
+				padding: 20px;
+  				text-align: center;
+  				background: #1abc9c;
+			}
+			.copyright { margin: 0px; margin-top: 0; color: red; font-size: 20px;}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-right: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0; color: 4169E1;
+			}
+		
+			p {
+				color: #555;
+			}
+			.innertube1 {
+				margin: 15px; /* Padding for content */
+				margin-top: 0; color: 2F4F4F;
+			}
+			
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: darkgreen;
+				text-decoration: none;
+			}
+			
+			.button-group,
+			.button-group li{
+  				display: inline-block; align: right; overflow: auto;
+  				zoom: 1.5;
+			}
+
+			.button-group{
+  				font-size: 0; /* Inline block elements gap - fix */
+  				margin: 0; margin-left: 400px; margin-top: 2px;
+  				padding: 0;
+  				background: rgba(0, 0, 0, .04);
+  				border-bottom: 1px solid rgba(0, 0, 0, .07);
+ 	 			padding: 3px;
+  				border-radius: 7px; 
+			}
+
+			.button-group li{
+  				margin-right: -1px; /* Overlap each right button border */
+			}
+
+			.button-group .button{
+  				font-size: 13px; /* Set the font size, different from inherited 0 */
+  				border-radius: 0; 
+			}
+
+			.button{
+  				box-shadow: 0 0 1px rgba(0, 0, 0, .2) inset,
+              	5px 0 5px -3px rgba(0, 0, 0, .2) inset,
+              	-5px 0 5px -3px rgba(0, 0, 0, .2) inset;   
+			}
+
+
+		</style>
+		
+		<script >
+		
+		</script>	
+	
+	</head>
+	
+	<body>		
+
+		<header>
+			<div class="innertube">
+				<h1 onclick="window.location.href='/';">KA FORENSICS</h1>
+                <p>I'm a cybersecurity enthusiast and a Certified Examiner in Digital Forensics. 
+				<br>
+				<br> I firmly believe knowledge should be free and everyone should have equal opportunity to learn</p>
+				<ul class="button-group">
+  					<li><button class="button" onclick="window.location.href='/art';">Articles</button></li>
+  					<li><button class="button" onclick="window.location.href='/res';">Research</button></li>
+  					<li><button class="button" onclick="window.location.href='/reso';">Resources</button></li>
+  					<li><button class="button" onclick="window.location.href='/kan';">Kannada</button></li>
+				</ul>
+			</div>
+			
+		</header>
+		
+		<div id="wrapper">
+		
+			<main style='margin-left:20px;'>
+				{% block body %}{% endblock body %}
+			</main>
+			
+			<nav>
+				<div class="innertube1">
+					<h3>Categories</h3>
+					<ul>
+						<li><a href="#">Digtial Forensics</a></li>
+						<li><a href="#">OSINT</a></li>
+						<li><a href="#">Dark Web</a></li>
+						<li><a href="#">Kannada</a></li>
+						<li><a href="#">Basics</a></li>
+					</ul>
+					<!--<h3>Tags</h3>
+					<ul>
+						<li><a href="#">mobile</a></li>
+						<li><a href="#">disk</a></li>
+						<li><a href="#">darkweb</a></li>
+						<li><a href="#">training</a></li>
+						<li><a href="#">basics</a></li>
+					</ul>-->
+					
+				</div>
+			</nav>
+		
+		</div>
+		
+		<footer>
+			<div class="copyright">
+				<p>&#169; KA Forensics</p>
+				<div align=center><a><img src='https://www.counter12.com/img-ayCx8B9wC3bdyw52-26.gif' border='0' alt='web counter free'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=ayCx8B9wC3bdyw52'></script></div>
+			</div>
+		</footer>
+	
+	</body>
+</html>
