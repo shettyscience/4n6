@@ -1,10 +1,12 @@
 {% extends "layout.html" %}
+  
 {% block body %}
-<div style="margin-right: 230px;">
+<div style="margin-right: 235px;">
     <h1>{{ page.title }}</h1>
     <p>{{ page.html|safe }}<p>
-    <strong>{{ page.author }}</strong> {{ page.date }}</span>
+    <strong>By {{ page.author }}</strong> Posted on {{ page.date }}</span>
     <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=601fbecc807e1c0013fc145a&product=inline-share-buttons" async="async"></script>
-    <div class="sharethis-inline-share-buttons"></div>
-</div>   
+    <div class="sharethis-inline-share-buttons" data-title= "{{ page.title }} By {{ page.author }}"></div>
+</div> 
+
 {% endblock %}
