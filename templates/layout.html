@@ -114,7 +114,27 @@
               	-5px 0 5px -3px rgba(0, 0, 0, .2) inset;   
 			}
 
-
+			.myButton{
+				position: absolute;
+  				left: 30px;
+  				top: 30px; padding:11px 23px;
+				box-shadow:inset 0px 1px 3px 0px #91b8b3;
+				background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+				background-color:#768d87;
+				border:1px solid #566963; cursor:pointer;
+				color:#ffffff;
+				font-family:Arial;
+				font-size:20px;
+				font-weight:bold;
+				border-radius:5px;
+				text-decoration:none;
+				text-shadow:0px -1px 0px #2b665e;
+				border:1px solid #566963;
+			}
+			.myButton:hover {
+				background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+				background-color:#6c7c7c;
+			}
 		</style>
 		
 		<script >
@@ -127,7 +147,7 @@
 
 		<header>
 			<div class="innertube">
-				<h1 onclick="window.location.href='/';">KA FORENSICS</h1>
+				<h1 style="cursor:pointer;" onclick="window.location.href='/';">KA FORENSICS</h1>
                 <p>I'm a cybersecurity enthusiast and a certified digital forensic examiner 
 				<br>
 				<br> I firmly believe knowledge should be free and everyone should have equal opportunity to learn</p>
@@ -137,6 +157,8 @@
   					<li><button class="button" onclick="window.location.href='/reso';">Resources</button></li>
   					<li><button class="button" onclick="window.location.href='/kan';">Kannada</button></li>
 				</ul>
+				<a href="/">
+				<button class="myButton">Home</button>
 			</div>
 			
 		</header>
@@ -151,11 +173,11 @@
 				<div class="innertube1">
 					<h3>Categories</h3>
 					<ul>
-						<li><a href="#">Digtial Forensics</a></li>
-						<li><a href="#">OSINT</a></li>
-						<li><a href="#">Dark Web</a></li>
-						<li><a href="#">Kannada</a></li>
-						<li><a href="#">Basics</a></li>
+						<li><a href="/dfir">Digital Forensics</a></li>
+						<li><a href="/osint">OSINT</a></li>
+						<li><a href="/dweb">Dark Web</a></li>
+						<li><a href="/trg">Training</a></li>
+						<li><a href="/basics">Basics</a></li>
 					</ul>
 					<!--<h3>Tags</h3>
 					<ul>
