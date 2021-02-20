@@ -90,7 +90,49 @@ While it is recommended to study on-campus due to various professional and perso
 
 40. ###### Master of Science in Cyber Security Engineering (University of San Diego) [[See Details](https://onlinedegrees.sandiego.edu/masters-cyber-security-engineering/)]
 
-41. ###### MS Cybersecurity (California State University San Marcos) [[See Details](https://www.csusm.edu/el/programs/science-technology/mscybersecurity/index.html)]
+40. ###### MS Cybersecurity (California State University San Marcos) [[See Details](https://www.csusm.edu/el/programs/science-technology/mscybersecurity/index.html)]
+
+41. ###### MS in Cybersecurity (Drexel University) [[See Details](https://drexel.edu/grad/programs/coe/cybersecurity/)]
+
+42. ###### Master of Science in Cybersecurity (The University of Arizona) [[See Details](https://online.arizona.edu/programs/graduate/online-master-science-cybersecurity-ms)]
+
+43. ###### Master of Science (MS) in Construction Cybersecurity (Capitol Technology University) [[See Details](https://www.captechu.edu/degrees-and-programs/masters-degrees/construction-cybersecurity-ms)]
+
+44. ###### Master of Science (MS) in Cybersecurity (Capitol Technology University) [[See Details](https://www.captechu.edu/degrees-and-programs/masters-degrees/cybersecurity-ms)]
+
+45. ###### Master of Science in Cybersecurity (National University)  [[See Details](https://www.nu.edu/ourprograms/college-of-professional-studies/engineering-and-computing/programs/master-of-science-in-cyber-security/)]
+
+46. ###### Master of Science degree in Information Systems and Security (MS-ISS) (Our Lady of the Lake University)  [[See Details](https://www.ollusa.edu/sbl/sbl-programs/information-systems-security-online/?_ga=2.148560628.253714331.1613823575-1958300302.1613823575)]
+
+47. ###### Master of Science in Computer and Information Science – Cyber Security and Privacy Option (Southern Arkansas University) [[See Details](https://web.saumag.edu/academics/program/master-of-computer-and-information-science-cyber-security-2/)]
+
+48. ###### Master of Science in Information Assurance - Cybersecurity (University of Detroit Mercy) [[See Details](https://liberalarts.udmercy.edu/academics/cis/information-assurance)]
+
+49. ###### Master of Science in Computer Science - Cybersecurity Engineering (Colorado Technical University)  [[See Details](https://www.coloradotech.edu/degrees/masters/computer-science/security)]
+
+50. ###### Master's in Information Systems Security (University of the Cumberlands)  [[See Details](https://www.ucumberlands.edu/academics/graduate/programs/master-science-information-systems-security)]
+
+51. ###### Master of Science in Cybersecurity (Norwich University) [[See Details](https://online.norwich.edu/academic-programs/masters/cybersecurity)]
+
+52. ###### Master of Science in Cybersecurity and Information Assurance (Western Governors University)  [[See Details](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-masters-program.html#close)]
+
+53. ###### Master of Science in Cyber Defense (Dakota State University)  [[See Details](https://dsu.edu/programs/mscd/index.html)]
+
+54. ###### Master of Science in Cybersecurity (Wilmington University)  [[See Details](https://www.wilmu.edu/technology/cybersecurity-master.aspx)]
+
+55. ###### Master of Science in Information Assurance and Cybersecurity (Sam Houston State University) [[See Details](https://online.shsu.edu/degrees/graduate/information-assurance-and-cybersecurity/)]
+
+56. ###### Master of Science in Cybersecurity Studies (American Public University) [[See Details](https://www.apu.apus.edu/academic/schools/science-technology-engineering-and-math/masters/cybersecurity-studies.html)]
+
+57. ###### Cybersecurity & Information Assurance, M.S. (Mississipi College) [[See Details](https://www.mc.edu/academics/programs/computer-science/graduate-programs/cyber-security-information-assurance-ms)]
+
+58. ###### Master of Science in Information Security & Assurance (Embry-Riddle Aeronautical University) [[See Details](https://erau.edu/degrees/master/information-security-assurance)]
+
+59. ###### Cybersecurity M.S. (Robert Morris University - Pittsburgh)  [[See Details](https://www.rmu.edu/academics/graduate/cybersecurity-ms)]
+
+60. ###### Master of Science in Cybersecurity (Eastern Illinois University) [[See Details](https://www.eiu.edu/cyber/)]
+
+61. ###### M.S. in Cybersecurity (Regent University)  [[See Details](https://www.regent.edu/program/ms-in-cybersecurity/)]
 
 ## Europe
 
@@ -116,7 +158,17 @@ While it is recommended to study on-campus due to various professional and perso
 
 11. ###### MSc Cybercrime (University of Portsmouth) [[See Details](https://studyonline.port.ac.uk/online-msc-cybercrime?utm_campaign=Eduportals&utm_source=StudyPortals&utm_medium=listing&utm_term=CC)]
 
- 
+12. ###### MSc Computer Science with Cyber Security (Wrexham Glyndwr University) [[See Details](https://online.glyndwr.ac.uk/msc-computer-science-with-cyber-security/)]
+
+13. ###### MSc Cyber Security (Coventry University) [[See Details](https://www.coventry.ac.uk/course-structure/pg/2020-21/online/msc-cyber-security/?visitor=international)]
+
+14. ###### MSc in Cyber Security (The Open University, UK)  [[See Details](http://www.openuniversity.edu/courses/postgraduate/qualifications/f87)]
+
+15. ###### Master in Computer Science – Cybersecurity, Artificial Intelligence and Data Science (MIA Digital University, Spain)  [[See Details](https://www.miauniversity.com/en/master/master-in-computer-science-specialization-in-cyber-security-data-analytics-and-artificial-intelligence/)]
+
+16. ###### Master in Cybersecurity and Information Risk Management (Structuralia, Spain) [[See Details](https://www.structuralia.com/formacion/master-ciberseguridad-gestion-riesgos-informacion?utm_source=onlinestudies&utm_medium=referral&utm_campaign=onlinestudies)]
+
+17. ###### Master's Degree in Cybersecurity Research (University of Leon/Universidad de Leon, Spain) [[See Details](http://online.unileon.es/estudios/master-universitario-investigacion-ciberseguridad/)]
 
 ## Others
 
