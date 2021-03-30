@@ -1,14 +1,16 @@
-title: OSINT: Searching People/Phone Numbers in India 
+title: OSINT - Searching People and Phone Numbers in India 
 date: 30 Mar 21
 research: research
 tagosint: osint
 tagtraining: training
 author: ka4n6
-description: Searching People and Phone Numbers using local websites and resources
+description: Searching Indian People and Phone Numbers using websites and resources
 
-Data collection is the most important step in Open Source Intelligence (OSINT) Gathering and Analysis which starts with collecting the basic details of a person like name, phone number, address etc. We find enormous resources to achieve this objective but most of them are mainly focused on US and Europe and may not be effective in finding people in other countries. Hence I have tried to find different ways to find people and collect data pertaining to them which can be used for OSINT analysis in Indian context.
+![title](\static\img\res1.png)
 
-###### I am not discussing about <u>Google Search</u>, <u>Social Media Search</u> and other popular searches commonly used in OSINT!
+Data collection is the most important step in Open Source Intelligence (OSINT) Gathering and Analysis which starts with collecting the basic details of a person like name, phone number, address etc. We find enormous resources to achieve this objective but most of them are mainly focused on US and Europe and may not be effective in finding people in other countries. Hence I have tried to find different ways to find people and collect data pertaining to them which can be used for further OSINT analysis in Indian context. Below are the useful links which can be used to find Indian people and Indian phone numbers. These links are not arranged as per their usefulness, it is left to the user to choose website of utility.
+
+**I am not discussing about <u>Google Search</u>, <u>Social Media Search</u> and other popular searches commonly used in OSINT!**
 
 ## SEARCHING PEOPLE
 
@@ -16,19 +18,11 @@ Data collection is the most important step in Open Source Intelligence (OSINT) G
 
 #### Indian People Directory (https://www.indianpeopledirectory.com/)
 
-
-
-![image-20210330154016889](C:\Users\shett\AppData\Roaming\Typora\typora-user-images\image-20210330154016889.png)
-
-[Indian People Directory](https://www.indianpeopledirectory.com/) (IPD) is though not very user friendly can be handy when you know the state or city of the target. It has options to search by name, phone numbers and email Ids. But it allows limited number of free searches after which we need to register to create account. Interestingly they also have provision to access information over SMS and Whatsapp.
-
-
+Though not very user friendly [Indian People Directory](https://www.indianpeopledirectory.com/) (IPD) can be handy when you know the state or city of the target. It has options to search by name, phone numbers and email Ids. But it allows limited number of free searches after which we need to register to create a sock puppet account. Interestingly they also have provision to access information over SMS and WhatsApp.
 
 #### Indian Finders (https://www.indianfinders.com/)
 
-[Indian Finders](https://www.indianfinders.com/) is an excellent portal to search people though limited information is available on the website search is easy and website  is user friendly. We can also use 'Advanced Search' feature if we have more information on the target. People can also be searched alphabetically in a directory. It does not require creation of account. It has an additional feature of 'Vehicle Search' which can be very useful during data collection. Vehicle search offers interesting details including name of the owner, dates, make and model of the vehicle, NOC details etc.
-
-
+[Indian Finders](https://www.indianfinders.com/) is an excellent portal to search people. Though limited information is available on the website, search is easy and website  is user friendly. We can also use 'Advanced Search' feature if we have more information on the target. People can even be searched alphabetically in the directory. It does not require creation of account. It has an additional feature of 'Vehicle Search' which can be very useful during data collection. Vehicle search offers interesting details including name of the owner, dates, make and model of the vehicle, NOC details etc.
 
 #### White Pages (https://whitepages.in/)
 
@@ -36,37 +30,36 @@ Data collection is the most important step in Open Source Intelligence (OSINT) G
 
 #### ContactofIndia.com (http://www.contactofindia.com/index.php)
 
-[ContactofIndia.com](http://www.contactofindia.com/index.php) is a unique platform for Indian People Search. Limited features are available for anonymous search. But better search is possible on creatiion of account (registration) which requires you to give even your phone number.
+[ContactofIndia.com](http://www.contactofindia.com/index.php) is a unique platform for searching Indian people. Limited features are available for anonymous search. But better search is possible on creation of account (registration) which requires you to give even your phone number.
 
 #### India People Finder (https://indiabook.com/cgi-bin/wp/db.cgi?db=default&uid=default)
 
-[India People Finder](https://indiabook.com/cgi-bin/wp/db.cgi?db=default&uid=default&view_search=1)  by IndianBook.com (Megrisoft) has basic UI with multiple fields to search people by name. It has provision to enter additional details pertaining to target person which yields better search results. Though the database appears to be small, the amount of information available pertaining to a person is huge and any OSINT investigator can not miss it.  Information is available under following heads;
+[India People Finder](https://indiabook.com/cgi-bin/wp/db.cgi?db=default&uid=default&view_search=1)  by IndianBook.com (Megrisoft) has basic UI with multiple fields to search people by name. It has provision to enter additional details pertaining to target person which naturally yields better search results. Though the database appears to be small, the amount of information available pertaining to a person is huge and an OSINT investigator can not miss it.  Information is available under following heads;
 
-| First Name: |      |
-| ----------- | :--- |
-| Last Name:  |      |
-| Sex:        |      |
-| Address:    |      |
-| City:       |      |
-| State:      |      |
-| Country:    |      |
-| Zip:        |      |
-| Phone:      |      |
-| Fax:        |      |
-| Mobile:     |      |
-| URL:        |      |
-| Email:      |      |
-| Date:       |      |
+|             |
+| :---------- |
+| First Name: |
+| Last Name:  |
+| Sex:        |
+| Address:    |
+| City:       |
+| State:      |
+| Country:    |
+| Zip:        |
+| Phone:      |
+| Fax:        |
+| Mobile:     |
+| URL:        |
+| Email:      |
+| Date:       |
 
 #### Family Search 
 
 [FamilySearch.org](https://www.familysearch.org/search/collection/location/1927063?region=India) is good place to find information on deceased persons in historical records. You need to create a sock puppet account to search for information on persons of interest.
 
-
-
- 
-
 ## SEARCHING PHONE NUMBER
+
+
 
 #### True Caller (https://www.truecaller.com/)
 
@@ -94,7 +87,7 @@ In addition to the other search features [Search Yellow Directory](https://www.s
 
 #### Bharatiya Mobile (https://trace.bharatiyamobile.com/index.php)
 
-Trace feature in [Bharatiya Mobile](https://trace.bharatiyamobile.com/index.php) can be used to search Indian mobile numbers
+Trace feature in [Bharatiya Mobile](https://trace.bharatiyamobile.com/index.php) can be also used to search Indian mobile numbers
 
 #### PPP India (https://www.pppindia.com/mobile-number-locator/)
 
@@ -102,7 +95,7 @@ Mobile number locator feature of [pppindia.com](https://www.pppindia.com/mobile-
 
 #### India Trace (https://www.indiatrace.com/)
 
-[India Trace](https://www.indiatrace.com/) provides multiple search services including tracing mobile and landline number, tracing vehicle number, IP address, bulk SMS sender and many more.
+[India Trace](https://www.indiatrace.com/) provides multiple search services including tracing mobile and landline numbers, tracing vehicle numbers, IP addresses, bulk SMS senders and many more.
 
 #### Mobile Number Tracker in Etrace (https://etrace.in/mobile-number-tracker/)
 
@@ -120,10 +113,17 @@ Indian mobile number can be searched for basic details in [Bmobile](https://bmob
 
 [India on a page](http://www.indiaonapage.com/mobilenumbertrace) website has plethora of search features and mobile/landline number trace is one of them. 
 
-Gadget Council (https://www.gadgetcouncil.com/mobile-tracker/)
+#### Gadget Council (https://www.gadgetcouncil.com/mobile-tracker/)
 
 [Mobile Tracker](https://www.gadgetcouncil.com/mobile-tracker/) feature in Gadget Council website is equally good for searching basic details of a phone number.
 
 #### Free lookup (https://free-lookup.net/)
 
-[Free Lookup](https://free-lookup.net/) has a very attractive and simple to use  interface.
+[Free Lookup](https://free-lookup.net/) has a very attractive and simple user interface.
+
+#### Hacktrix (https://www.hacktrix.com/)
+
+[Trace Mobile Location](https://www.hacktrix.com/trace-mobile-phone-location-and-service-provider-details/) feature of hacktrix.com is another useful URL to trace phone number location and service provider details
+
+It should be noted that above locations obtained in phone number searches are not exact locations and should be seen in broader perspective to narrow down our search. Further service provider details may not be updated information as many people frequently change service providers through Mobile Number Portability (MNP).
+
