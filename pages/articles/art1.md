@@ -7,6 +7,9 @@ author: ka4n6
 description: New trends in digital forensics
 
 
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 New trends in digital forensics indicates there is increasing focus on Vehicle Forensics both in industry and in law enforcement agencies as enormous amounts of data are stored in Vehicles.
 
 #### **Modern Vehicles Contain** :

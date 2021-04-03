@@ -6,7 +6,11 @@ tagtraining: training
 author: ka4n6
 description: Searching Indian People and Phone Numbers using websites and resources
 
+
+
 ![title](\static\img\res1.png)
+
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 Data collection is the most important step in Open Source Intelligence (OSINT) Gathering and Analysis which starts with collecting the basic details of a person like name, phone number, address etc. We find enormous resources to achieve this objective but most of them are mainly focused on US and Europe and may not be effective in finding people in other countries. Hence I have tried to find different ways to find people and collect data pertaining to them which can be used for further OSINT analysis in Indian context. Below are the useful links which can be used to find Indian people and Indian phone numbers. These links are not arranged as per their usefulness, it is left to the user to choose website of utility.
 
