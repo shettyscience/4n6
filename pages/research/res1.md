@@ -32,6 +32,10 @@ Though not very user friendly [Indian People Directory](https://www.indianpeople
 
 [ContactofIndia.com](http://www.contactofindia.com/index.php) is a unique platform for searching Indian people. Limited features are available for anonymous search. But better search is possible on creation of account (registration) which requires you to give even your phone number.
 
+#### Infobel (https://www.infobel.com/fr/india)
+
+[Infobel](https://www.infobel.com/fr/india) is a global platform but found to be useful for India too. It is particularly useful for searching firms or businessmen. If you get lucky at this website you can get target's address and phone number.
+
 #### India People Finder (https://indiabook.com/cgi-bin/wp/db.cgi?db=default&uid=default)
 
 [India People Finder](https://indiabook.com/cgi-bin/wp/db.cgi?db=default&uid=default&view_search=1)  by IndianBook.com (Megrisoft) has basic UI with multiple fields to search people by name. It has provision to enter additional details pertaining to target person which naturally yields better search results. Though the database appears to be small, the amount of information available pertaining to a person is huge and an OSINT investigator can not miss it.  Information is available under following heads;

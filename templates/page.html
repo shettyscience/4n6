@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
   
 {% block body %}
-<div style="margin-right: 235px;">
+<div>
     <h1>{{ page.title }}</h1>
     <p>{{ page.html|safe }}<p>
     <strong>By {{ page.author }}</strong> Posted on {{ page.date }}</span> <br>
@@ -9,6 +9,9 @@
     <strong>Join My Telegram Channel: <a href="https://t.me/CybForensics">t.me/CybForensics</a></strong></span>
     <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=601fbecc807e1c0013fc145a&product=inline-share-buttons" async="async"></script>
     <div class="sharethis-inline-share-buttons" data-title= "{{ page.title }} By {{ page.author }}"></div>
+    
+    
+    
 </div> 
 
 {% endblock %}
