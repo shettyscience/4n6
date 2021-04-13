@@ -32,12 +32,12 @@ Please find State/Union Territory codes and RTO codes [here](https://en.wikipedi
 ### [Go Digit](https://www.godigit.com/traffic-rules/how-to-find-vehicle-owner-details-by-registration-number)
 This is an excellent tool to search and find vehicle owner. In fact it provides owner's private data and also some data related to vehicle including Chassis Number and Engine Number. But major setback is that it requires a valid mobile phone number requiring validation through OTP to fetch vehicle details.
 
->![Screenshot of vehicle search on Go Digit](\static\research\go digit.png)
+>![Screenshot of vehicle search on Go Digit](\static\research\godigit1.png)
 
 ### [Vahan E-services](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml)
 This is a government site managed by Ministry of Road Transport & Highways, Government of India. Though this portal requires registration with valid email ID and valid phone number, provides authentic information on a vehicle.
 
-> ![Screenshot of information obtained from Vahan E-services](\static\research\vahan1.png)
+>![Screenshot of information obtained from Vahan E-services](\static\research\vahan1.png)
 
 ### [Vahan Info](https://vahaninfos.com/vehicle-details-by-number-plate)
 This provides us basic vehicle details including owner name. Best feature is there no need of creating account and it has simple user interface. You can right away enter vehicle number without space and enter Captcha to directly access the info.
@@ -55,7 +55,7 @@ Read more at: https://www.drivespark.com/rto-vehicle-registration-details/kerala
 Though it requires registration and registration requires active email ID and mobile phone number, it can be used by regular users. Special feature of the website is that it generates a beautiful report with all available information on the vehicle but on payement by subscribing Gold or Platinum certificate. A sample history certificate generated is also given on its home page. 
 
 ### [Droom](https://droom.in/history)
-Droom is again a good resource but needs validation through email and mobile phone number which is a problem for OSINT analyst. It seems this is a second domain of[Vehicle History](https://vehiclehistory.in/) discussed above.
+Droom is again a good resource but needs validation through email and mobile phone number which is a problem for OSINT analyst. It seems this is a second domain of [Vehicle History](https://vehiclehistory.in/) discussed above.
 
 ### [Zoop.One](https://zoop.one/vehicle-rc-verification-api/)
 And at the end check out this commercial tool used for vehicle verification. It provides API key for vehicle verification purposes.
@@ -63,13 +63,21 @@ And at the end check out this commercial tool used for vehicle verification. It 
 ### State RTO Websites
 
 All states and union territories have their own websites for road transport. Few examples are:
-    [Andhra Pradesh](https://aprtacitizen.epragathi.org/#!/vehicleRegistrationSearch)
-    [Kerala](https://mvd.kerala.gov.in/citizenCorner)
-    [Madhya Pradesh](http://mis.mptransport.org/MPLogin/eSewa/VehicleSearch.aspx)
-    [Telangana](https://tgtransport.net/TGCFSTONLINE/Reports/VehicleRegistrationSearch.aspx)
-    [Tripura](https://tsu.trp.nic.in/transport/public/vahan/RegistrationSearch_citz.aspx)
-    [Andaman and Nicobar](http://db.and.nic.in/mvd/Forms/Regn/RegnDetails.aspx)
-    [Jharkhand](http://jhtransport.gov.in/vehicle-fitness.html)
+
+[Andhra Pradesh](https://aprtacitizen.epragathi.org/#!/vehicleRegistrationSearch)
+
+[Kerala](https://mvd.kerala.gov.in/citizenCorner)
+
+[Madhya Pradesh](http://mis.mptransport.org/MPLogin/eSewa/VehicleSearch.aspx)
+
+[Telangana](https://tgtransport.net/TGCFSTONLINE/Reports/VehicleRegistrationSearch.aspx)
+
+[Tripura](https://tsu.trp.nic.in/transport/public/vahan/RegistrationSearch_citz.aspx)
+
+[Andaman and Nicobar](http://db.and.nic.in/mvd/Forms/Regn/RegnDetails.aspx)
+
+[Jharkhand](http://jhtransport.gov.in/vehicle-fitness.html)
+
 
 However most of the above sites are linked to [Vahan](https://vahan.nic.in/nrservices/faces/user/citizen/citizenlogin.xhtml) site of Government of India for vehicle search purposes.
 Utility of these state road transport websites may vary but sites like [Madhya Pradesh](http://mis.mptransport.org/MPLogin/eSewa/VehicleSearch.aspx) are very useful furnishing all required information of a vehicle.
