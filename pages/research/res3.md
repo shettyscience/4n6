@@ -5,7 +5,7 @@ tagosint: osint
 tagtraining: training
 tagbasics: basics
 author: ka4n6
-description: Koo App is an Indian microblogging and social networking site based in Bangalore. Koo is available for download on both Android and iOS platforms. It can also be used directly on web browsers but I have observed some bugs on web browsers. As per latest data (February 2021) Koo has over 3 million users and most of the users are Indians. It is being projected as an alternative of twitter in India and has features almost similar to twitter.  One unique feature of Koo is that it is available in multiple languages allowing people to communicate in local languages. As of now it is supporting five languages (English, Hindi, Kannada, Tamil and Telugu), but has plans to add seven more Indian languages. 
+description: Koo App is an Indian microblogging and social networking site based in Bangalore.  It is being projected as an alternative of twitter in India and has features almost similar to twitter.  One unique feature of Koo is that it is available in multiple languages allowing people to communicate in local languages. As of now it is supporting five languages (English, Hindi, Kannada, Tamil and Telugu).
 
 
 
@@ -16,7 +16,7 @@ description: Koo App is an Indian microblogging and social networking site based
 
 'Koo App' is an Indian microblogging and social networking site based in Bangalore. Koo is available for download on both Android and iOS platforms. It can also be used directly on web browsers but I have observed some bugs on web browsers. As per latest data (February 2021) Koo has over 3 million users and most of the users are Indians. It is being projected as an alternative of twitter in India and has features almost similar to twitter.  One unique feature of Koo is that it is available in multiple languages allowing people to communicate in local languages. As of now it is supporting five languages (English, Hindi, Kannada, Tamil and Telugu), but has plans to add seven more Indian languages. 
 
-​Therefore Koo application could be very handy for OSINTers especially if they are working on targets based in India. Koo can also pose challenge to local law enforcement agencies in criminal investigations and intelligence gathering. Keeping thi in mind I have written this general blog which demonstrates methods to access Koo data without logging in.
+​Therefore Koo application could be very handy for OSINTers especially if they are working on targets based in India. Koo can also pose challenge to local law enforcement agencies in criminal investigations and intelligence gathering. Keeping these in mind I have written this general blog which demonstrates methods to access Koo data without logging in.
 
 ### 1. Finding User Profile
 
@@ -33,15 +33,16 @@ Where 'HANDLE' is the username or Koo Handle name displayed in the profile. It i
 Koo allows handles in other languages where the HANDLE may be in Hindi, Kannada, Telugu and Tamil. HANDLE may also be mix of one of the above languages and English. 
 
 > Example:
->
-> https://www.kooapp.com/profile/%E0%B2%A8%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%A1__
-> %E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%B2%E0%B3%8B%E0%B2%95
+
+<textarea rows="4" cols="100">
+https://www.kooapp.com/profile/%E0%B2%A8%E0%B2%BE_%E0%B2%95%E0%B2%82%E0%B2%A1__%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1_%E0%B2%B2%E0%B3%8B%E0%B2%95</textarea>
 
 Above example is a HANDLE in Kannada but may show as above due to URL Encoding. If you face problem in decoding the URL, you can use [CyberChef Tool](https://gchq.github.io/CyberChef/) on [GitHub](https://github.com/). 
 
 
 
-``` 
+```
+
 Step 1: Open https://gchq.github.io/CyberChef/
 
 Step 2: Drag "URL Decode" on the extreme left and drop it on 'Recipe' box
@@ -49,8 +50,8 @@ Step 2: Drag "URL Decode" on the extreme left and drop it on 'Recipe' box
 Step 3: Copy and paste encoded URL in 'Input' box (Encoded URL will look like the example mentioned above)
 
 Step 3: Decoded URL will be displayed in the 'Output' box 
-```
 
+```
 
 
 You can also use [Google Translate](https://translate.google.com/) to change HANDLE to different languages.
