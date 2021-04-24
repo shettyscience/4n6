@@ -8,6 +8,8 @@ description: Unfortunately vehicle numbers are diverse across the globe leading 
 
 
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)]()	 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)]() 	[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)]()
+
 In collecting OSINT to identify vehicle or persons, searching vehicle number plates is one of the important tasks. But unfortunately vehicle numbers are diverse across the globe leading to requirement of local resources to identify the country where vehicle is registered and also identify the owner of the vehicle. Hence the vehicle search tools used in variuos international and US based OSINT courses may not help in searching plates in India. In Indian scenario vehicle registration is state specific but vehicle searc can be done for the country and no need to search in every state.
 
 **Vehicle search can be used in OSINT work for following purposes:**
@@ -46,10 +48,7 @@ This provides us basic vehicle details including owner name. Best feature is the
 Find and Trace is general search site with features to search mobile phone numbers, landline numbers, bulk SMS etc. but provides basic searching of vehicle numbers. However the amount of information available is very limited and can not not be compared with other portals discussed above.
 
 ### [Drive Spark](https://www.drivespark.com/rto-vehicle-registration-details/)
-Number KL18X9570 City Vadakara State Kerala Phone +(91)-496-2526234 Email kl18@keralamvd.gov.in Address Mini Civil Station, Vadakara, Kozhikode - 673101
-
-Read more at: https://www.drivespark.com/rto-vehicle-registration-details/kerala-kl-18/
-
+Enter the vehicle registration number in the search box shown on the website and find out the details of any vehicle registered in India. 
 
 ### [Vehicle History](https://vehiclehistory.in/)
 Though it requires registration and registration requires active email ID and mobile phone number, it can be used by regular users. Special feature of the website is that it generates a beautiful report with all available information on the vehicle but on payement by subscribing Gold or Platinum certificate. A sample history certificate generated is also given on its home page. 
