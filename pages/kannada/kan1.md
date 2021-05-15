@@ -50,27 +50,26 @@ description: ಯಾವುದೇ ಸಾಮಾಜಿಕ ಜಾಲತಾಣದ  ಅ
 
 ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳಲ್ಲಿ ಹಲವು ಬಾರಿ ಡಿಲೀಟ್ ಅಥವಾ ಎಡಿಟ್ ಮಾಡಿರೋ ಮಾಹಿತಿ ಬೇಕಾಗುತ್ತದೆ. ಈ ಸಂದರ್ಭದಲ್ಲಿ ಈ ಕೆಳಗಿನಂತೆ ಮಾಹಿತಿ ಸಂಗ್ರಹಿಸಬಹುದು;
 
-1. ವೆಬ್ ಸೈಟ್  [https://archive.org/web/](https://archive.org/web/) ಗೆ  ಹೋಗಿ
+> 1) ವೆಬ್ ಸೈಟ್  [https://archive.org/web/](https://archive.org/web/) ಗೆ  ಹೋಗಿ
 
 ![homepage](\static\kannada\kan1.png)
 
+> 2) ಅಲ್ಲಿ ವೆಬ್ ಸೈಟ್ ನ ಸರ್ಚ್ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಯಾವ ಅಕೌಂಟ್ ನ ಮಾಹಿತಿ ಬೇಕಾಗಿದೆಯೋ ಅದರ URL ನ್ನು ಟೈಪ್ ಮಾಡಿ ಅಥವಾ ಪೇಸ್ಟ್ ಮಾಡಿ.  ನಂತರ Enter  ಒತ್ತಿ.
 
-2. ಅಲ್ಲಿ ವೆಬ್ ಸೈಟ್ ನ ಸರ್ಚ್ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಯಾವ ಅಕೌಂಟ್ ನ ಮಾಹಿತಿ ಬೇಕಾಗಿದೆಯೋ ಅದರ URL ನ್ನು ಟೈಪ್ ಮಾಡಿ ಅಥವಾ ಪೇಸ್ಟ್ ಮಾಡಿ.  ನಂತರ Enter  ಒತ್ತಿ.
+ಉದಾಹರಣೆಗೆ ಸಿನಿಮಾ ನಟ ಯಶ್ ರವರ ಟ್ವಿಟ್ಟರ್ ಖಾತೆಯ ಹಳೆಯ ಮಾಹಿತಿ ತೆಗೆಯೊಣ. ಅವರ ಟ್ವಿಟರ್ ಯು.ಆರ್.ಎಲ್. (url) ಲಿಂಕ್ ಅನ್ನು ಕಾಪಿ ಮಾಡಿ ಸರ್ಚ್ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಪೇಸ್ಟ್ ಮಾಡಿ ಎಂಟರ್ ಕೀಯನ್ನು ಒತ್ತಿ. 
 
-   ಉದಾಹರಣೆಗೆ ಸಿನಿಮಾ ನಟ ಯಶ್ ರವರ ಟ್ವಿಟ್ಟರ್ ಖಾತೆಯ ಹಳೆಯ ಮಾಹಿತಿ ತೆಗೆಯೊಣ. ಅವರ ಟ್ವಿಟರ್ ಯು.ಆರ್.ಎಲ್. (url) ಲಿಂಕ್ ಅನ್ನು ಕಾಪಿ ಮಾಡಿ ಸರ್ಚ್ ಬಾಕ್ಸ್ ನಲ್ಲಿ ಪೇಸ್ಟ್ ಮಾಡಿ ಎಂಟರ್ ಕೀಯನ್ನು ಒತ್ತಿ. 
+[https://web.archive.org/web/*/https://twitter.com/thenameisyash](https://web.archive.org/web/*/https://twitter.com/thenameisyash)
 
-   [https://web.archive.org/web/*/https://twitter.com/thenameisyash](https://web.archive.org/web/*/https://twitter.com/thenameisyash)
+> 3) ಆ ಅಕೌಂಟ್ ನ ದಿನವಾರು ಮಾಹಿತಿಯ ಪಟ್ಟಿ ಲಬ್ಯವಾಗುವುದು. ಆವುಗಳಲ್ಲಿ ಯಾವ ದಿನದ ಮಾಹಿತಿ ಬೇಕಾಗಿದೆ ಆ ದಿನವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. 
 
-3. ಆ ಅಕೌಂಟ್ ನ ದಿನವಾರು ಮಾಹಿತಿಯ ಪಟ್ಟಿ ಲಬ್ಯವಾಗುವುದು. ಆವುಗಳಲ್ಲಿ ಯಾವ ದಿನದ ಮಾಹಿತಿ ಬೇಕಾಗಿದೆ ಆ ದಿನವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. 
-
-   [https://web.archive.org/web/*/https://twitter.com/thenameisyash](https://web.archive.org/web/*/https://twitter.com/thenameisyash)
+[https://web.archive.org/web/*/https://twitter.com/thenameisyash](https://web.archive.org/web/*/https://twitter.com/thenameisyash)
 
 ![homepage](\static\kannada\kan2.png)
 
+> 4) ನಿಮಗೆ ಬೇಕಾದ ಮಾಹಿತಿಯನ್ನು ಹುಡುಕಿ. ನಿಮಗೆ ಬೇಕಾದಂತೆ ದಿನಾಂಕಗಳನ್ನು ಬದಲಿಸಿ ವಿವಿದ ದಿನಾಂಕಗಳಂದು ಎಕೌಂಟ್ ನಲ್ಲಿ ಯಾವ ಮಾಹಿತಿ ಲಭ್ಯವಿದ್ದವು ಎಂದು ನೋಡಬಹುದು. 
+>
 
-3. ನಿಮಗೆ ಬೇಕಾದ ಮಾಹಿತಿಯನ್ನು ಹುಡುಕಿ. ನಿಮಗೆ ಬೇಕಾದಂತೆ ದಿನಾಂಕಗಳನ್ನು ಬದಲಿಸಿ ವಿವಿದ ದಿನಾಂಕಗಳಂದು ಎಕೌಂಟ್ ನಲ್ಲಿ ಯಾವ ಮಾಹಿತಿ ಲಭ್ಯವಿದ್ದವು ಎಂದು ನೋಡಬಹುದು. 
-
-   [https://web.archive.org/web/20181222165803if_/https://twitter.com/thenameisyash](https://web.archive.org/web/20181222165803if_/https://twitter.com/thenameisyash)
+[https://web.archive.org/web/20181222165803if_/https://twitter.com/thenameisyash](https://web.archive.org/web/20181222165803if_/https://twitter.com/thenameisyash)
 
 ![homepage](\static\kannada\kan3.png) 
 
@@ -98,19 +97,19 @@ description: ಯಾವುದೇ ಸಾಮಾಜಿಕ ಜಾಲತಾಣದ  ಅ
 
 ಉದಾಹರಣೆಗೆ:
 
-1. ಕರ್ನಾಟಕ ರಾಜ್ಯ ಪೊಲೀಸ್ ವೆಬ್ ಸೈಟ್  2008ನೇ ವರ್ಷ ಹೇಗಿತ್ತು ಎಂದು ನೋಡುವುದಾದರೆ- 
+- ಕರ್ನಾಟಕ ರಾಜ್ಯ ಪೊಲೀಸ್ ವೆಬ್ ಸೈಟ್  2008ನೇ ವರ್ಷ ಹೇಗಿತ್ತು ಎಂದು ನೋಡುವುದಾದರೆ- 
 
    ​	[https://web.archive.org/web/20080907200618/https://www.ksp.gov.in/](https://web.archive.org/web/20080907200618/https://www.ksp.gov.in/)
 
    
 
-2. ಉದಯವಾಣಿ ಪತ್ರಿಕೆಯ ವೆಬ್ ಸೈಟ್ ನಲ್ಲಿ 06.06.2012 ರಂದು ಯಾವ ವರದಿಗಳು ಪ್ರಕಟವಾಗಿದ್ದವು ಎಂದು ನೋಡಲು-  
+- ಉದಯವಾಣಿ ಪತ್ರಿಕೆಯ ವೆಬ್ ಸೈಟ್ ನಲ್ಲಿ 06.06.2012 ರಂದು ಯಾವ ವರದಿಗಳು ಪ್ರಕಟವಾಗಿದ್ದವು ಎಂದು ನೋಡಲು-  
 
    ​	[https://web.archive.org/web/20120606001538/http://www.udayavani.com/Kannada](https://web.archive.org/web/20120606001538/http://www.udayavani.com/Kannada)
 
    
 
-3. ಯು.ಬಿ. ಗ್ರೂಪ್ ಕಂಪನಿಯ 2013 ರಲ್ಲಿನ ಮಾಹಿತಿ ಅದರ ವೆಬ್ ಸೈಟ್ ನಿಂದ ಪಡೆಯುವುದಾದರೆ-  
+- ಯು.ಬಿ. ಗ್ರೂಪ್ ಕಂಪನಿಯ 2013 ರಲ್ಲಿನ ಮಾಹಿತಿ ಅದರ ವೆಬ್ ಸೈಟ್ ನಿಂದ ಪಡೆಯುವುದಾದರೆ-  
 
    ​	[https://web.archive.org/web/20130529200825/http://theubgroup.com/finance_quarterly_main.aspx](https://web.archive.org/web/20130529200825/http://theubgroup.com/finance_quarterly_main.aspx)
 
