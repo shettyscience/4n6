@@ -3,15 +3,13 @@
 {% block body %}
 <div style="margin-left:5%; width:80%; margin-right:10%; line-height:200%; font-size:100%; word-wrap: break-word;">
     <h1>{{ page.title }}</h1>
-    <p>{{ page.html|safe }}<p>
+    <p>{{ page.html|safe }}<p><br>
     <strong>By {{ page.author }}</strong> Posted on {{ page.date }}</span> <br>
     <strong>Contact: cyber.ksp@protonmail.com</strong></span> <br>
+    <div class="shareaholic-canvas" data-title= "{{ page.title }} By {{ page.author }}" data-app="share_buttons" data-app-id="29831195"></div>
 
-    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=601fbecc807e1c0013fc145a&product=inline-share-buttons" async="async"></script>
-    <div class="sharethis-inline-share-buttons" data-title= "{{ page.title }} By {{ page.author }}"></div>
-    
-    
-    
+    <br>
+    <br>
 </div> 
 
 {% endblock %}

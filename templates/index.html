@@ -2,13 +2,15 @@
 
 
 {% block body %}
-<div>        
-{% for page in pages %}
-    <a href="{{ page.path }}.html"><h2>{{ page.title }}</h2></a>
-    <p>{{ page.description }}</p>
-    <p>{{ page.date }}</p>
-    <hr>
-{% endfor %}
+<div style="margin-left:5%; width:80%; margin-right:10%;">    
+    {% for page in pages %}
+    <article>
+        <a style="text-decoration:none;" href="{{ page.path }}.html"><h2>{{ page.title }}</h2></a>
+        <p>{{ page.description }}</p>
+        <p>{{ page.date }}</p>
+        <hr>
+    </article>
+    {% endfor %}
 </div>
 
 {% endblock %}
