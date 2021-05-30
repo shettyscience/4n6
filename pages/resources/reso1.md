@@ -5,7 +5,7 @@ tagdfir: digitalforensics
 tagtraining: training
 tagbasics: basics
 author: ka4n6
-description: This is a simple blog just to list out resources available on twitter. It is often confusing for the beginners in any field of expertise to decide on where to start and how to go about it. So far Digital Forensics is concerned we mainly have four platforms to start with i.e., [Youtube](https://www.youtube.com/), [Telegram](https://telegram.org/), [Discord](https://discord.com/brand-new) and [Twitter](https://twitter.com/). Twitter is very simple and easy way for the beginners to get familiarized with the stuff related to digital forensics. 
+description: It is often confusing for the beginners in any field of expertise to decide on where to start and how to go about it. Twitter is very simple and easy way for the beginners to get familiarized with the stuff related to digital forensics. 
 
 
 
@@ -23,181 +23,181 @@ Hello friends! This is a simple blog just to list out resources available on twi
 
 [Jessica Hyde ![Twitter Follow](https://img.shields.io/twitter/follow/B1N2H3X?style=social)](https://twitter.com/B1N2H3X) 
 
-[Heather Mahalik](https://twitter.com/HeatherMahalik) ![Twitter Follow](https://img.shields.io/twitter/follow/HeatherMahalik?style=social)
+[Heather Mahalik ![Twitter Follow](https://img.shields.io/twitter/follow/HeatherMahalik?style=social)](https://twitter.com/HeatherMahalik) 
 
-[Sarah Edwards](https://twitter.com/iamevltwin)  ![Twitter Follow](https://img.shields.io/twitter/follow/iamevltwin?style=social)
+[Sarah Edwards ![Twitter Follow](https://img.shields.io/twitter/follow/iamevltwin?style=social)](https://twitter.com/iamevltwin)  
 
-[Lee Reiber](https://twitter.com/Celldet) ![Twitter Follow](https://img.shields.io/twitter/follow/Celldet?style=social)
+[Lee Reiber  ![Twitter Follow](https://img.shields.io/twitter/follow/Celldet?style=social)](https://twitter.com/Celldet)
 
-[David Cowen](https://twitter.com/HECFBlog) ![Twitter Follow](https://img.shields.io/twitter/follow/HECFBlog?style=social)
+[David Cowen  ![Twitter Follow](https://img.shields.io/twitter/follow/HECFBlog?style=social)](https://twitter.com/HECFBlog)
 
-[Eric Zimmerman](https://twitter.com/EricRZimmerman) ![Twitter Follow](https://img.shields.io/twitter/follow/EricRZimmerman?style=social)
+[Eric Zimmerman  ![Twitter Follow](https://img.shields.io/twitter/follow/EricRZimmerman?style=social)](https://twitter.com/EricRZimmerman)
 
-[Brett Shavers](https://twitter.com/Brett_Shavers) ![Twitter Follow](https://img.shields.io/twitter/follow/Brett_Shavers?style=social) and [DFIR Training](https://twitter.com/DFIRTraining) ![Twitter Follow](https://img.shields.io/twitter/follow/DFIRTraining?style=social)
+[Brett Shavers  ![Twitter Follow](https://img.shields.io/twitter/follow/Brett_Shavers?style=social)](https://twitter.com/Brett_Shavers) and [DFIR Training ![Twitter Follow](https://img.shields.io/twitter/follow/DFIRTraining?style=social)](https://twitter.com/DFIRTraining) 
 
-[Yogesh Khatri](https://twitter.com/SwiftForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/SwiftForensics?style=social)
+[Yogesh Khatri  ![Twitter Follow](https://img.shields.io/twitter/follow/SwiftForensics?style=social)](https://twitter.com/SwiftForensics)
 
-[Kevin Ripa](https://twitter.com/kevinripa) ![Twitter Follow](https://img.shields.io/twitter/follow/kevinripa?style=social)
+[Kevin Ripa  ![Twitter Follow](https://img.shields.io/twitter/follow/kevinripa?style=social)](https://twitter.com/kevinripa)
 
-[Cheeky4n6Monkey](https://twitter.com/Cheeky4n6Monkey) ![Twitter Follow](https://img.shields.io/twitter/follow/Cheeky4n6Monkey?style=social)
+[Cheeky4n6Monkey  ![Twitter Follow](https://img.shields.io/twitter/follow/Cheeky4n6Monkey?style=social)](https://twitter.com/Cheeky4n6Monkey)
 
-[Cindy Murphy](https://twitter.com/CindyMurph) ![Twitter Follow](https://img.shields.io/twitter/follow/CindyMurph?style=social)
+[Cindy Murphy  ![Twitter Follow](https://img.shields.io/twitter/follow/CindyMurph?style=social)](https://twitter.com/CindyMurph)
 
-[Andrew Rathbun](https://twitter.com/bunsofwrath12)  ![Twitter Follow](https://img.shields.io/twitter/follow/bunsofwrath12?style=social)
+[Andrew Rathbun   ![Twitter Follow](https://img.shields.io/twitter/follow/bunsofwrath12?style=social)](https://twitter.com/bunsofwrath12)
 
-[Lee Whitfield ![Twitter Follow](https://img.shields.io/twitter/follow/lee_whitfield?style=social)](https://twitter.com/lee_whitfield) 
+[Lee Whitfield  ![Twitter Follow](https://img.shields.io/twitter/follow/lee_whitfield?style=social)](https://twitter.com/lee_whitfield) 
 
-[James Duffy](https://twitter.com/j_duffy01)  ![Twitter Follow](https://img.shields.io/twitter/follow/j_duffy01?style=social)
+[James Duffy   ![Twitter Follow](https://img.shields.io/twitter/follow/j_duffy01?style=social)](https://twitter.com/j_duffy01)
 
-[Matthew Seyer](https://twitter.com/forensic_matt) ![Twitter Follow](https://img.shields.io/twitter/follow/forensic_matt?style=social)
+[Matthew Seyer  ![Twitter Follow](https://img.shields.io/twitter/follow/forensic_matt?style=social)](https://twitter.com/forensic_matt)
 
-[DFIR Diva](https://twitter.com/DfirDiva) ![Twitter Follow](https://img.shields.io/twitter/follow/DfirDiva?style=social)
+[DFIR Diva  ![Twitter Follow](https://img.shields.io/twitter/follow/DfirDiva?style=social)](https://twitter.com/DfirDiva)
 
-[Shafik Punja](https://twitter.com/qubytelogic) ![Twitter Follow](https://img.shields.io/twitter/follow/qubytelogic?style=social)
+[Shafik Punja  ![Twitter Follow](https://img.shields.io/twitter/follow/qubytelogic?style=social)](https://twitter.com/qubytelogic)
 
-[Michael - DFIR Podcast](https://twitter.com/DFIRPodcast)  ![Twitter Follow](https://img.shields.io/twitter/follow/DFIRPodcast?style=social)
+[Michael - DFIR Podcast   ![Twitter Follow](https://img.shields.io/twitter/follow/DFIRPodcast?style=social)](https://twitter.com/DFIRPodcast)
 
-[Richard Davis](https://twitter.com/davisrichardg) ![Twitter Follow](https://img.shields.io/twitter/follow/davisrichardg?style=social) and [13Cubed](https://twitter.com/13CubedDFIR) ![Twitter Follow](https://img.shields.io/twitter/follow/13CubedDFIR?style=social)
+[Richard Davis  ![Twitter Follow](https://img.shields.io/twitter/follow/davisrichardg?style=social)](https://twitter.com/davisrichardg) and [13Cubed  ![Twitter Follow](https://img.shields.io/twitter/follow/13CubedDFIR?style=social)](https://twitter.com/13CubedDFIR)
 
-[Christa M. Miller](https://twitter.com/christammiller) ![Twitter Follow](https://img.shields.io/twitter/follow/christammiller?style=social)
+[Christa M. Miller  ![Twitter Follow](https://img.shields.io/twitter/follow/christammiller?style=social)](https://twitter.com/christammiller)
 
-[The Bald Jedi](https://twitter.com/TroySchnack) ![Twitter Follow](https://img.shields.io/twitter/follow/TroySchnack?style=social)
+[The Bald Jedi  ![Twitter Follow](https://img.shields.io/twitter/follow/TroySchnack?style=social)](https://twitter.com/TroySchnack)
 
-[DFIR_300](https://twitter.com/300Dfir) ![Twitter Follow](https://img.shields.io/twitter/follow/300Dfir?style=social)
+[DFIR_300  ![Twitter Follow](https://img.shields.io/twitter/follow/300Dfir?style=social)](https://twitter.com/300Dfir)
 
-[Alexis Brignoni](https://twitter.com/AlexisBrignoni) ![Twitter Follow](https://img.shields.io/twitter/follow/AlexisBrignoni?style=social)
+[Alexis Brignoni  ![Twitter Follow](https://img.shields.io/twitter/follow/AlexisBrignoni?style=social)](https://twitter.com/AlexisBrignoni)
 
-[Oleg Skulkin](https://twitter.com/oskulkin) ![Twitter Follow](https://img.shields.io/twitter/follow/oskulkin?style=social)
+[Oleg Skulkin  ![Twitter Follow](https://img.shields.io/twitter/follow/oskulkin?style=social)](https://twitter.com/oskulkin)
 
 [Scott Forensics](https://twitter.com/ScottForensics)  ![Twitter Follow](https://img.shields.io/twitter/follow/ScottForensics?style=social)
 
-[Fisher Davies](https://twitter.com/Fisherdavies) ![Twitter Follow](https://img.shields.io/twitter/follow/Fisherdavies?style=social)
+[Fisher Davies  ![Twitter Follow](https://img.shields.io/twitter/follow/Fisherdavies?style=social)](https://twitter.com/Fisherdavies)
 
-[Andrey Belenko](https://twitter.com/abelenko) ![Twitter Follow](https://img.shields.io/twitter/follow/abelenko?style=social)
+[Andrey Belenko  ![Twitter Follow](https://img.shields.io/twitter/follow/abelenko?style=social)](https://twitter.com/abelenko)
 
-[Phill Moore](https://twitter.com/phillmoore) ![Twitter Follow](https://img.shields.io/twitter/follow/phillmoore?style=social)
+[Phill Moore  ![Twitter Follow](https://img.shields.io/twitter/follow/phillmoore?style=social)](https://twitter.com/phillmoore)
 
-[Jason Jordaan](https://twitter.com/DFS_JasonJ) ![Twitter Follow](https://img.shields.io/twitter/follow/DFS_JasonJ?style=social)
+[Jason Jordaan  ![Twitter Follow](https://img.shields.io/twitter/follow/DFS_JasonJ?style=social)](https://twitter.com/DFS_JasonJ)
 
-[Mattia Epifani](https://twitter.com/mattiaep) ![Twitter Follow](https://img.shields.io/twitter/follow/mattiaep?style=social)
+[Mattia Epifani  ![Twitter Follow](https://img.shields.io/twitter/follow/mattiaep?style=social)](https://twitter.com/mattiaep)
 
 [Josh Hickman](https://twitter.com/josh_hickman1) ![Twitter Follow](https://img.shields.io/twitter/follow/josh_hickman1?style=social)
 
-[Tarah Melton](https://twitter.com/melton_tarah) ![Twitter Follow](https://img.shields.io/twitter/follow/melton_tarah?style=social)
+[Tarah Melton  ![Twitter Follow](https://img.shields.io/twitter/follow/melton_tarah?style=social)](https://twitter.com/melton_tarah)
 
-[Ryan Benson](https://twitter.com/_RyanBenson) ![Twitter Follow](https://img.shields.io/twitter/follow/_RyanBenson?style=social)
+[Ryan Benson  ![Twitter Follow](https://img.shields.io/twitter/follow/_RyanBenson?style=social)](https://twitter.com/_RyanBenson)
 
-[theAtropos4n6](https://twitter.com/theAtropos4n6) ![Twitter Follow](https://img.shields.io/twitter/follow/theAtropos4n6?style=social)
+[theAtropos4n6 ![Twitter Follow](https://img.shields.io/twitter/follow/theAtropos4n6?style=social)](https://twitter.com/theAtropos4n6) 
 
-[Ulf Frisk](https://twitter.com/UlfFrisk) ![Twitter Follow](https://img.shields.io/twitter/follow/UlfFrisk?style=social)
+[Ulf Frisk  ![Twitter Follow](https://img.shields.io/twitter/follow/UlfFrisk?style=social)](https://twitter.com/UlfFrisk)
 
-[Brian Carrier](https://twitter.com/carrier4n6) ![Twitter Follow](https://img.shields.io/twitter/follow/carrier4n6?style=social)
+[Brian Carrier  ![Twitter Follow](https://img.shields.io/twitter/follow/carrier4n6?style=social)](https://twitter.com/carrier4n6)
 
-[Minoru Kobayashi](https://twitter.com/unkn0wnbit) ![Twitter Follow](https://img.shields.io/twitter/follow/unkn0wnbit?style=social)
+[Minoru Kobayashi  ![Twitter Follow](https://img.shields.io/twitter/follow/unkn0wnbit?style=social)](https://twitter.com/unkn0wnbit)
 
-[GeoSn0w](https://twitter.com/FCE365) ![Twitter Follow](https://img.shields.io/twitter/follow/FCE365?style=social)
+[GeoSn0w  ![Twitter Follow](https://img.shields.io/twitter/follow/FCE365?style=social)](https://twitter.com/FCE365)
 
-[Andreas Schuster](https://twitter.com/forensikblog) ![Twitter Follow](https://img.shields.io/twitter/follow/forensikblog?style=social)
+[Andreas Schuster  ![Twitter Follow](https://img.shields.io/twitter/follow/forensikblog?style=social)](https://twitter.com/forensikblog)
 
-[Kevin](https://twitter.com/KevinPagano3) ![Twitter Follow](https://img.shields.io/twitter/follow/KevinPagano3?style=social) and [Stark4N6](https://twitter.com/stark4n6) ![Twitter Follow](https://img.shields.io/twitter/follow/stark4n6?style=social)
+[Kevin  ![Twitter Follow](https://img.shields.io/twitter/follow/KevinPagano3?style=social)](https://twitter.com/KevinPagano3) and [Stark4N6  ![Twitter Follow](https://img.shields.io/twitter/follow/stark4n6?style=social)](https://twitter.com/stark4n6)
 
-[Igor Mikhaylov](https://twitter.com/Weare4n6) ![Twitter Follow](https://img.shields.io/twitter/follow/Weare4n6?style=social)
+[Igor Mikhaylov  ![Twitter Follow](https://img.shields.io/twitter/follow/Weare4n6?style=social)](https://twitter.com/Weare4n6)
 
-[Paul Scurvy](https://twitter.com/PaulScurvy) ![Twitter Follow](https://img.shields.io/twitter/follow/PaulScurvy?style=social)
+[Paul Scurvy  ![Twitter Follow](https://img.shields.io/twitter/follow/PaulScurvy?style=social)](https://twitter.com/PaulScurvy)
 
-[DoubleBlak](https://twitter.com/BlakDouble) ![Twitter Follow](https://img.shields.io/twitter/follow/BlakDouble?style=social)
+[DoubleBlak  ![Twitter Follow](https://img.shields.io/twitter/follow/BlakDouble?style=social) ](https://twitter.com/BlakDouble)
 
-[Matt Goeckel](https://twitter.com/mattforensic) ![Twitter Follow](https://img.shields.io/twitter/follow/mattforensic?style=social)
+[Matt Goeckel  ![Twitter Follow](https://img.shields.io/twitter/follow/mattforensic?style=social)](https://twitter.com/mattforensic)
 
-[Jason Wilkins](https://twitter.com/TheJasonWilkins) ![Twitter Follow](https://img.shields.io/twitter/follow/TheJasonWilkins?style=social)
+[Jason Wilkins  ![Twitter Follow](https://img.shields.io/twitter/follow/TheJasonWilkins?style=social)](https://twitter.com/TheJasonWilkins)
 
-[DFIR Review](https://twitter.com/DFIRReview) ![Twitter Follow](https://img.shields.io/twitter/follow/DFIRReview?style=social)
+[DFIR Review  ![Twitter Follow](https://img.shields.io/twitter/follow/DFIRReview?style=social)](https://twitter.com/DFIRReview)
 
-[Abhiram Kumar](https://twitter.com/_abhiramkumar) ![Twitter Follow](https://img.shields.io/twitter/follow/_abhiramkumar?style=social) 
+[Abhiram Kumar  ![Twitter Follow](https://img.shields.io/twitter/follow/_abhiramkumar?style=social) ](https://twitter.com/_abhiramkumar)
 
-[Evild3ad79](https://twitter.com/Evild3ad79) ![Twitter Follow](https://img.shields.io/twitter/follow/Evild3ad79?style=social)
+[Evild3ad79  ![Twitter Follow](https://img.shields.io/twitter/follow/Evild3ad79?style=social)](https://twitter.com/Evild3ad79)
 
 
 
 ## **Tools and Organizations on Twitter** 
 
-[ElcomSoft](https://twitter.com/ElcomSoft) ![Twitter Follow](https://img.shields.io/twitter/follow/ElcomSoft?style=for-the-badge)
+[ElcomSoft  ![Twitter Follow](https://img.shields.io/twitter/follow/ElcomSoft?style=for-the-badge) ](https://twitter.com/ElcomSoft)
 
-[Magnet Forensics](https://twitter.com/MagnetForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/MagnetForensics?style=for-the-badge)
+[Magnet Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/MagnetForensics?style=for-the-badge)](https://twitter.com/MagnetForensics)
 
-[Oxygen Forensics](https://twitter.com/oxygenforensic) ![Twitter Follow](https://img.shields.io/twitter/follow/oxygenforensic?style=for-the-badge)
+[Oxygen Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/oxygenforensic?style=for-the-badge)](https://twitter.com/oxygenforensic)
 
-[Cellebrite Public Safety](https://twitter.com/Cellebrite_UFED) ![Twitter Follow](https://img.shields.io/twitter/follow/Cellebrite_UFED?style=for-the-badge)
+[Cellebrite Public Safety  ![Twitter Follow](https://img.shields.io/twitter/follow/Cellebrite_UFED?style=for-the-badge)](https://twitter.com/Cellebrite_UFED)
 
-[Cellebrite Enterprise Solutions](https://twitter.com/CellebriteES) ![Twitter Follow](https://img.shields.io/twitter/follow/CellebriteES?style=for-the-badge)
+[Cellebrite Enterprise Solutions  ![Twitter Follow](https://img.shields.io/twitter/follow/CellebriteES?style=for-the-badge)](https://twitter.com/CellebriteES)
 
-[Digital Detective](https://twitter.com/DigitalDetectiv) ![Twitter Follow](https://img.shields.io/twitter/follow/DigitalDetectiv?style=for-the-badge)
+[Digital Detective  ![Twitter Follow](https://img.shields.io/twitter/follow/DigitalDetectiv?style=for-the-badge) ](https://twitter.com/DigitalDetectiv)
 
-[Grayshift](https://twitter.com/GrayshiftLLC) ![Twitter Follow](https://img.shields.io/twitter/follow/GrayshiftLLC?style=for-the-badge)
+[Grayshift  ![Twitter Follow](https://img.shields.io/twitter/follow/GrayshiftLLC?style=for-the-badge)](https://twitter.com/GrayshiftLLC)
 
-[CCL Forensics](https://twitter.com/CCLForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/CCLForensics?style=for-the-badge)
+[CCL Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/CCLForensics?style=for-the-badge)](https://twitter.com/CCLForensics)
 
-[DATAPILOT](https://twitter.com/SusteenTweet) ![Twitter Follow](https://img.shields.io/twitter/follow/SusteenTweet?style=for-the-badge)
+[DATAPILOT  ![Twitter Follow](https://img.shields.io/twitter/follow/SusteenTweet?style=for-the-badge)](https://twitter.com/SusteenTweet)
 
-[MSAB](https://twitter.com/MSAB_XRY) ![Twitter Follow](https://img.shields.io/twitter/follow/MSAB_XRY?style=for-the-badge)
+[MSAB  ![Twitter Follow](https://img.shields.io/twitter/follow/MSAB_XRY?style=for-the-badge)](https://twitter.com/MSAB_XRY)
 
-[Teel Technologies](https://twitter.com/teeltech) ![Twitter Follow](https://img.shields.io/twitter/follow/teeltech?style=for-the-badge)
+[Teel Technologies  ![Twitter Follow](https://img.shields.io/twitter/follow/teeltech?style=for-the-badge)](https://twitter.com/teeltech)
 
-[Belkasoft](https://twitter.com/Belkasoft) ![Twitter Follow](https://img.shields.io/twitter/follow/Belkasoft?style=for-the-badge)
+[Belkasoft  ![Twitter Follow](https://img.shields.io/twitter/follow/Belkasoft?style=for-the-badge)](https://twitter.com/Belkasoft)
 
-[IACIS](https://twitter.com/IACIS) ![Twitter Follow](https://img.shields.io/twitter/follow/IACIS?style=for-the-badge)
+[IACIS  ![Twitter Follow](https://img.shields.io/twitter/follow/IACIS?style=for-the-badge)](https://twitter.com/IACIS)
 
-[X-act Forensics](https://twitter.com/XactForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/XactForensics?style=for-the-badge)
+[X-act Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/XactForensics?style=for-the-badge)](https://twitter.com/XactForensics)
 
-[DigitalForensicsMag](https://twitter.com/DFMag) ![Twitter Follow](https://img.shields.io/twitter/follow/DFMag?style=for-the-badge)
+[DigitalForensicsMag  ![Twitter Follow](https://img.shields.io/twitter/follow/DFMag?style=for-the-badge)](https://twitter.com/DFMag)
 
-[Digital Intelligence](https://twitter.com/DigitalIntel) ![Twitter Follow](https://img.shields.io/twitter/follow/DigitalIntel?style=for-the-badge)
+[Digital Intelligence  ![Twitter Follow](https://img.shields.io/twitter/follow/DigitalIntel?style=for-the-badge)](https://twitter.com/DigitalIntel)
 
-[Cyber 5W](https://twitter.com/cyber5w) ![Twitter Follow](https://img.shields.io/twitter/follow/cyber5w?style=for-the-badge)
+[Cyber 5W  ![Twitter Follow](https://img.shields.io/twitter/follow/cyber5w?style=for-the-badge)](https://twitter.com/cyber5w)
 
-[sleuthkit](https://twitter.com/sleuthkit) ![Twitter Follow](https://img.shields.io/twitter/follow/sleuthkit?style=for-the-badge)
+[sleuthkit  ![Twitter Follow](https://img.shields.io/twitter/follow/sleuthkit?style=for-the-badge)](https://twitter.com/sleuthkit)
 
-[AccessData, an Exterro company](https://twitter.com/AccessDataGroup) ![Twitter Follow](https://img.shields.io/twitter/follow/AccessDataGroup?style=for-the-badge)
+[AccessData, an Exterro company  ![Twitter Follow](https://img.shields.io/twitter/follow/AccessDataGroup?style=for-the-badge)](https://twitter.com/AccessDataGroup)
 
-[AD Mobile Forensics](https://twitter.com/ADMobilForensic) ![Twitter Follow](https://img.shields.io/twitter/follow/ADMobilForensic?style=for-the-badge)
+[AD Mobile Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/ADMobilForensic?style=for-the-badge)](https://twitter.com/ADMobilForensic)
 
-[DFRWS](https://twitter.com/DFRWS) ![Twitter Follow](https://img.shields.io/twitter/follow/DFRWS?style=for-the-badge)
+[DFRWS  ![Twitter Follow](https://img.shields.io/twitter/follow/DFRWS?style=for-the-badge)](https://twitter.com/DFRWS)
 
-[SANS DFIR](https://twitter.com/sansforensics) ![Twitter Follow](https://img.shields.io/twitter/follow/sansforensics?style=for-the-badge)
+[SANS DFIR  ![Twitter Follow](https://img.shields.io/twitter/follow/sansforensics?style=for-the-badge)](https://twitter.com/sansforensics)
 
-[SANS Institute](https://twitter.com/SANSInstitute) ![Twitter Follow](https://img.shields.io/twitter/follow/SANSInstitute?style=for-the-badge)
+[SANS Institute  ![Twitter Follow](https://img.shields.io/twitter/follow/SANSInstitute?style=for-the-badge)](https://twitter.com/SANSInstitute)
 
-[ComputerForensics](https://twitter.com/ComputForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/ComputForensics?style=for-the-badge)
+[ComputerForensics  ![Twitter Follow](https://img.shields.io/twitter/follow/ComputForensics?style=for-the-badge)](https://twitter.com/ComputForensics)
 
-[BCU Digital Forensics](https://twitter.com/BCUForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/BCUForensics?style=for-the-badge)
+[BCU Digital Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/BCUForensics?style=for-the-badge)](https://twitter.com/BCUForensics)
 
-[IntaForensics](https://twitter.com/IntaForensics)  ![Twitter Follow](https://img.shields.io/twitter/follow/IntaForensics?style=for-the-badge)
+[IntaForensics   ![Twitter Follow](https://img.shields.io/twitter/follow/IntaForensics?style=for-the-badge)](https://twitter.com/IntaForensics)
 
-[Digital Forensics (4N6)](https://twitter.com/D4n6J) ![Twitter Follow](https://img.shields.io/twitter/follow/D4n6J?style=for-the-badge)
+[Digital Forensics (4N6)  ![Twitter Follow](https://img.shields.io/twitter/follow/D4n6J?style=for-the-badge)](https://twitter.com/D4n6J)
 
-[Foxton Forensics](https://twitter.com/FoxtonForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/FoxtonForensics?style=for-the-badge)
+[Foxton Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/FoxtonForensics?style=for-the-badge)](https://twitter.com/FoxtonForensics)
 
-[TRITECH FORENSICS](https://twitter.com/TriTechForensic) ![Twitter Follow](https://img.shields.io/twitter/follow/TriTechForensic?style=for-the-badge)
+[TRITECH FORENSICS  ![Twitter Follow](https://img.shields.io/twitter/follow/TriTechForensic?style=for-the-badge)](https://twitter.com/TriTechForensic)
 
-[MD5 Ltd](https://twitter.com/MD5forensics) ![Twitter Follow](https://img.shields.io/twitter/follow/MD5forensics?style=for-the-badge)
+[MD5 Ltd  ![Twitter Follow](https://img.shields.io/twitter/follow/MD5forensics?style=for-the-badge)](https://twitter.com/MD5forensics)
 
-[Volatility](https://twitter.com/volatility) ![Twitter Follow](https://img.shields.io/twitter/follow/volatility?style=for-the-badge)
+[Volatility  ![Twitter Follow](https://img.shields.io/twitter/follow/volatility?style=for-the-badge)](https://twitter.com/volatility)
 
-[DME Forensics](https://twitter.com/dmeforensics) ![Twitter Follow](https://img.shields.io/twitter/follow/dmeforensics?style=for-the-badge)
+[DME Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/dmeforensics?style=for-the-badge)](https://twitter.com/dmeforensics)
 
-[Forensic 4cast](https://twitter.com/4cast) ![Twitter Follow](https://img.shields.io/twitter/follow/4cast?style=for-the-badge)
+[Forensic 4cast  ![Twitter Follow](https://img.shields.io/twitter/follow/4cast?style=for-the-badge)](https://twitter.com/4cast)
 
-[BerlaCorp](https://twitter.com/BerlaCorp)  ![Twitter Follow](https://img.shields.io/twitter/follow/BerlaCorp?style=for-the-badge)
+[BerlaCorp   ![Twitter Follow](https://img.shields.io/twitter/follow/BerlaCorp?style=for-the-badge)](https://twitter.com/BerlaCorp)
 
-[X-Ways Software](https://twitter.com/XWaysSoftware) ![Twitter Follow](https://img.shields.io/twitter/follow/XWaysSoftware?style=for-the-badge)
+[X-Ways Software  ![Twitter Follow](https://img.shields.io/twitter/follow/XWaysSoftware?style=for-the-badge)](https://twitter.com/XWaysSoftware)
 
-[SUMURI](https://twitter.com/SUMURIForensics) ![Twitter Follow](https://img.shields.io/twitter/follow/SUMURIForensics?style=for-the-badge)
+[SUMURI  ![Twitter Follow](https://img.shields.io/twitter/follow/SUMURIForensics?style=for-the-badge)](https://twitter.com/SUMURIForensics)
 
-[Paraben Corporation](https://twitter.com/parabencorp)  ![Twitter Follow](https://img.shields.io/twitter/follow/parabencorp?style=for-the-badge)
+[Paraben Corporation   ![Twitter Follow](https://img.shields.io/twitter/follow/parabencorp?style=for-the-badge)](https://twitter.com/parabencorp)
 
-[checkra1n](https://twitter.com/checkra1n) ![Twitter Follow](https://img.shields.io/twitter/follow/checkra1n?style=for-the-badge)
+[checkra1n  ![Twitter Follow](https://img.shields.io/twitter/follow/checkra1n?style=for-the-badge)](https://twitter.com/checkra1n)
 
-[Digital Forensics](https://twitter.com/3EFLtd) ![Twitter Follow](https://img.shields.io/twitter/follow/3EFLtd?style=for-the-badge)
+[Digital Forensics  ![Twitter Follow](https://img.shields.io/twitter/follow/3EFLtd?style=for-the-badge)](https://twitter.com/3EFLtd)
 
 
 
