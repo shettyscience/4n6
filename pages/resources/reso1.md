@@ -21,7 +21,7 @@ Hello friends! This is a simple blog just to list out resources available on twi
 
 ## **Bloggers, Trainers and Researchers on Twitter**
 
-[Jessica Hyde](https://twitter.com/B1N2H3X) ![Twitter Follow](https://img.shields.io/twitter/follow/B1N2H3X?style=social)
+[Jessica Hyde ![Twitter Follow](https://img.shields.io/twitter/follow/B1N2H3X?style=social)](https://twitter.com/B1N2H3X) 
 
 [Heather Mahalik](https://twitter.com/HeatherMahalik) ![Twitter Follow](https://img.shields.io/twitter/follow/HeatherMahalik?style=social)
 
@@ -45,7 +45,7 @@ Hello friends! This is a simple blog just to list out resources available on twi
 
 [Andrew Rathbun](https://twitter.com/bunsofwrath12)  ![Twitter Follow](https://img.shields.io/twitter/follow/bunsofwrath12?style=social)
 
-[Lee Whitfield](https://twitter.com/lee_whitfield) ![Twitter Follow](https://img.shields.io/twitter/follow/lee_whitfield?style=social)
+[Lee Whitfield ![Twitter Follow](https://img.shields.io/twitter/follow/lee_whitfield?style=social)](https://twitter.com/lee_whitfield) 
 
 [James Duffy](https://twitter.com/j_duffy01)  ![Twitter Follow](https://img.shields.io/twitter/follow/j_duffy01?style=social)
 
