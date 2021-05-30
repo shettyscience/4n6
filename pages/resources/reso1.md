@@ -13,9 +13,8 @@ description: It is often confusing for the beginners in any field of expertise t
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-markdown.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-Hello friends! This is a simple blog just to list out resources available on twitter. It is often confusing for the beginners in any field of expertise to decide on where to start and how to go about it. So far Digital Forensics is concerned we mainly have four platforms to start with i.e., [Youtube](https://www.youtube.com/), [Telegram](https://telegram.org/), [Discord](https://discord.com/brand-new) and [Twitter](https://twitter.com/). Twitter is very simple and easy way for the beginners to get familiarized with the stuff related to digital forensics. We can not only update ourselves with the latest developments in the field but also look for various training and job opportunities in the field.  For the sake convenience, I have classified these accounts into two categories. Excuse me for my laziness as I have not sorted these accounts on the basis of importance or usefulness. So, please spend some time searching :)
-*
-*
+Hello friends! This is a simple blog just to list out resources available on twitter. It is often confusing for the beginners in any field of expertise to decide on where to start and how to go about it. So far Digital Forensics is concerned we mainly have four platforms to start with i.e., [Youtube](https://www.youtube.com/), [Telegram](https://telegram.org/), [Discord](https://discord.com/brand-new) and [Twitter](https://twitter.com/). Twitter is very simple and easy way for the beginners to get familiarized with the stuff related to digital forensics. We can not only update ourselves with the latest developments in the field but also look for various training and job opportunities in the field.  For the sake convenience, I have classified these accounts into two categories. Excuse me for my laziness as I have not sorted these accounts on the basis of importance or usefulness. So, please spend some time searching.
+
 ## Bloggers, Trainers and Researchers on Twitter
 
 [Jessica Hyde ![Twitter Follow](https://img.shields.io/twitter/follow/B1N2H3X?style=social)](https://twitter.com/B1N2H3X) 
@@ -114,8 +113,7 @@ Hello friends! This is a simple blog just to list out resources available on twi
 
 [Evild3ad79  ![Twitter Follow](https://img.shields.io/twitter/follow/Evild3ad79?style=social)](https://twitter.com/Evild3ad79)
 
-*
-*
+
 ## Tools and Organizations on Twitter
 
 [ElcomSoft  ![Twitter Follow](https://img.shields.io/twitter/follow/ElcomSoft?style=for-the-badge) ](https://twitter.com/ElcomSoft)
