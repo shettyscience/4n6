@@ -197,6 +197,6 @@ It is understood that every user changes the way his/her account looks and they 
 ### Scraping
 
 Anyone interested in scraping user details available on homepage can try this Python Script on Github
-[https://github.com/ka4n6/Koo_Scraping](https://github.com/ka4n6/Koo_Scraping).
+[https://github.com/ka4n6/Koo_Scraping](https://github.com/ka4n6/Koo_Scraping). But keep legal provisions of the country in mind before venturing into this.
 
 Thanks for reading! I will conclude with the statement that Koo will continue to grow and there are a lot of things that needs to be done with respect to OSINT data collection from Koo.
